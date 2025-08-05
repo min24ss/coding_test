@@ -8,3 +8,4 @@
 | 1929    | 소수 구하기 | [문제](https://www.acmicpc.net/problem/1929) | [풀이](week1_math/1929_prime_num.py) |
 | 1978 | 소수 찾기 | [문제](https://www.acmicpc.net/problem/1978) | [풀이](week1_math/1978_find_prime_num.py) |
 | 4948 | 베트랑과 공준 | [문제](https://www.acmicpc.net/problem/4948) |[풀이](week1_math/4948_Chebyshev's_Theorem.py)
+| 15649| n과 m | [문제](https://www.acmicpc.net/problem/15649) | [풀이](week1_math/15649_n_m(1).py)|
