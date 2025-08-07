@@ -10,4 +10,4 @@
 | 4948 | 베트랑과 공준 | [문제](https://www.acmicpc.net/problem/4948) |[풀이](week1_math/4948_Chebyshev's_Theorem.py)
 | 15649| n과 m | [문제](https://www.acmicpc.net/problem/15649) | [풀이](week1_math/15649_n_m(1).py)|
 | 2609 | 최대공약수와 최소공배수 | [문제](https://www.acmicpc.net/problem/2609) | [풀이](week1_math/2609_gcd_lcm.py)|
-| 9020 | 골드바흐의 추측 | [문제https://www.acmicpc.net/problem/9020) | [풀이](week1_math/9020_Goldbach's_Conjecture.py)
+| 9020 | 골드바흐의 추측 | [문제](https://www.acmicpc.net/problem/9020) | [풀이](week1_math/9020_Goldbach's_Conjecture.py)
