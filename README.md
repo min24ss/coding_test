@@ -14,6 +14,9 @@
 | 11653 | 소인수분해 | [문제](https://www.acmicpc.net/problem/11653) | [풀이](week1_math/11653_prime_factorization.py)
 | 6588 | 골드바흐의 추측 | [문제](https://www.acmicpc.net/problem/6588) | [풀이](week1_math/6599_Goldbach's_Conjecture2.py)
 
+## 2주차 코드업
+
+
 예정
 | 1182 | 부분수열의 합 | [문제](https://www.acmicpc.net/problem/1182) | [풀이](week1_math/1182_sum_of_subsequence.py)
 | 6603 | 로또 | [문제](https://www.acmicpc.net/problem/6603) | [풀이](week1_math/6603_lotto.py)
