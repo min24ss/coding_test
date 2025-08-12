@@ -15,6 +15,7 @@
 | 6588 | 골드바흐의 추측 | [문제](https://www.acmicpc.net/problem/6588) | [풀이](week1_math/6599_Goldbach's_Conjecture2.py)
 
 ## 2주차 코드업
+https://codeup.kr/
 
 
 예정
